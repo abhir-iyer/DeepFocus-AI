@@ -39,6 +39,8 @@ DeepFocus-AI/
 │   └── synthetic_focus_dataset.csv # Generated labeled dataset
 ├── README.md                       # Project introduction & details
 └── requirements.txt                # Project dependencies
+├── .gitignore                      # Files and folders to ignore in version control
+├── LICENSE                         # MIT license for open source usage
 ```
 
 ---
