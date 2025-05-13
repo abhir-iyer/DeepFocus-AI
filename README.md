@@ -48,22 +48,22 @@ DeepFocus-AI/
 ### 🔸 Clone Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/DeepFocusAI.git
+git clone https://github.com/<your-github-username>/DeepFocus-AI.git
 cd DeepFocusAI
 ```
 
 ### 🔸 Set Up Python Environment (Conda recommended)
 
 ```bash
-conda create -n deepfocusai python=3.10
-conda activate deepfocusai
+conda create -n deepfocus-ai python=3.10
+conda activate deepfocus-ai
 pip install -r requirements.txt
 ```
 
 ### 🔸 Launch Notebook
 
 ```bash
-jupyter notebook notebooks/DeepFocusAI.ipynb
+jupyter notebook notebooks/DeepFocus-AI.ipynb
 ```
 
 ---
