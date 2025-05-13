@@ -49,7 +49,7 @@ DeepFocus-AI/
 
 ```bash
 git clone https://github.com/<your-github-username>/DeepFocus-AI.git
-cd DeepFocusAI
+cd DeepFocus-AI
 ```
 
 ### 🔸 Set Up Python Environment (Conda recommended)
