@@ -32,7 +32,7 @@ DeepFocus-AI/
 │   ├── sharp/                      # Original synthetic images (in-focus)
 │   └── blurred/                    # Artificially blurred images (simulated defocus)
 ├── notebooks/
-│   └── DeepFocusAI.ipynb           # Jupyter notebook outlining project workflow
+│   └── DeepFocus-AI.ipynb           # Jupyter notebook outlining project workflow
 ├── models/
 │   └── deepfocusAI_model.h5        # Final trained CNN model
 ├── dataset/
