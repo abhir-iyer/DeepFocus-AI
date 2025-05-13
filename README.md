@@ -24,6 +24,17 @@
 
 ---
 
+## 📁 Dataset Source
+
+This project uses wafer map data from the publicly available **WM-811K** dataset on Kaggle:
+
+- **WM-811K: Wafer Map Failure Patterns**  
+  📎 [https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map](https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map)
+
+The raw wafer maps were converted into synthetic optical-style images, and various levels of Gaussian blur were applied to simulate defocus conditions. This synthetic dataset was then labeled using the variance of the Laplacian to represent sharpness scores.
+
+---
+
 ## 📂 Repository Structure
 
 ```bash
