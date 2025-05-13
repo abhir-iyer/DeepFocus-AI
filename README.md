@@ -27,7 +27,7 @@
 ## 📂 Repository Structure
 
 ```bash
-DeepFocusAI/
+DeepFocus-AI/
 ├── synthetic_images/
 │   ├── sharp/                      # Original synthetic images (in-focus)
 │   └── blurred/                    # Artificially blurred images (simulated defocus)
